@@ -1,0 +1,61 @@
+.gradient-background {
+    background: linear-gradient(300deg, #faf1ac, #e8c3a0, #f79c45);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+    padding: 45px;
+  }
+
+  body {
+    font-family: "Poppins", sans-serif;
+    margin: 0px 0px 0 0px;
+    background-color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    min-height: 95vh;
+  }
+  .main {
+    flex: 1;
+  }
+  
+  h1 {
+    font-size: 5rem;
+  }
+  
+  footer {
+    text-align: right;
+    color: midnightblue;
+  }
+  
+  .title-image{
+    height: 200px;
+    float: left;
+    margin-right: 50px;
+  }
+  
+  .card{
+    width: 45%;
+  }
+  
+  .left{
+    float: left;
+  }
+  
+  .right{
+    float: right;
+  }
+  
+  .creative{
+    color: midnightblue;
+  }
+  
+  .logo{
+    width: 100px;
+    float: ;
+  }
+
+
+    h1{
+      font-size: 3.5 rem;
+      text-align: center;
+    }
+  
